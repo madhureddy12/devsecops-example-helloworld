@@ -6,7 +6,7 @@ This example uses a [Jenkins multi-branch pipelines].
 The code for this pipeline can be found [here](./Jenkinsfile).
 
 Jenkins multi-branch pipelines build all your branches in your repository under source code
-control (e.g. github) automatically. Note that you can explicitly include/exclude branch using
+control (e.g. github) automatically. Note that you can explicitly ine/exclude branch using
 regular expressions.
 This allows for a development approach with short-lived feature and bugfix 
 branches that can be build, deployed, and tested simultaneously.
