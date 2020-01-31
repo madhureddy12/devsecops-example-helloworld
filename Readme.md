@@ -14,7 +14,7 @@ This is important, because it  allows developers to update and test the pipeline
 the change request (or bugfix) they are working on,
 so the pipeline code always stays in sync with the the application code.
 Furthermore, __"standard"__ development processes can now not only be applied to the
-application code, but also to the pipeline code, specifically source code control, testing, 
+application code, but also to the eline code, specifically source code control, testing, 
 and code review.
 
 ## Pipeline Steps
