@@ -3,7 +3,7 @@
 # Jenkins Multibranch Pipeline
 
 This example uses a [Jenkins multi-branch pipelines].
-The code for this pipeline can be found [here](./Jenkinsfile).
+The code for this pipeline can be found [here](./Jenkinsfile)
 
 Jenkins multi-branch pipelines build all your branches in your repository under source code
 control (e.g. github) automatically. Note that you can explicitly include/exclude branch using
